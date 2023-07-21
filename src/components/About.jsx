@@ -34,9 +34,7 @@ const ServiceCard = ({ index, title, icon }) => (
     </motion.div>
   </Tilt>
 );
-
-//update
-// 3D portfolio
+io
 
 const About = () => {
   return (
