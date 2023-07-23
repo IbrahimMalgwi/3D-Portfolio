@@ -50,7 +50,7 @@ const About = () => {
       >
         I&apos;m a skilled software software engineer with experience in Java and
         JavaScript, and expertise in frameworks like React, Node.js, and
-        Three.js. I&apos;m a quick learner and collaborate closely with clients to
+        Three.js. I am also a cyber Security expert and A system administrator. I&apos;m a quick learner and collaborate closely with clients to
         create efficient, scalable, and user-friendly solutions that solve
         real-world problems. Let&apos;s work together to bring your ideas to life!
       </motion.p>
